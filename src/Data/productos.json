@@ -1,0 +1,92 @@
+[
+	{
+		"id": 0,
+		"title": "papa",
+		"description": "Papa blanca x kg",
+		"price": 600,
+		"thumbnail": "papa.jpg",
+		"code": "C001",
+		"stock": 60
+	},
+	{
+		"id": 1,
+		"title": "tomate",
+		"description": "tomate x kg",
+		"price": 700,
+		"thumbnail": "tomate.jpg",
+		"code": "C002",
+		"stock": 70
+	},
+	{
+		"id": 2,
+		"title": "lechuga",
+		"description": "lechuga x kg",
+		"price": 800,
+		"thumbnail": "lechuga.jpg",
+		"code": "C003",
+		"stock": 80
+	},
+	{
+		"id": 3,
+		"title": "pera",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C004",
+		"stock": 90
+	},
+	{
+		"id": 4,
+		"title": "manzana",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C005",
+		"stock": 90
+	},
+	{
+		"id": 5,
+		"title": "durazno",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C006",
+		"stock": 90
+	},
+	{
+		"id": 6,
+		"title": "kiwi",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C007",
+		"stock": 90
+	},
+	{
+		"id": 7,
+		"title": "uva",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C008",
+		"stock": 90
+	},
+	{
+		"id": 8,
+		"title": "pimiento",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C009",
+		"stock": 90
+	},
+	{
+		"id": 9,
+		"title": "cebolla",
+		"description": "pera x kg",
+		"price": 800,
+		"thumbnail": "pera.jpg",
+		"code": "C010",
+		"stock": 90
+	}
+]
